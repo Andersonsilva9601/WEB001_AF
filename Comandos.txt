@@ -1,1 +1,5 @@
 git clone https://github.com/Andersonsilva9601/WEB001_AF.git
+git add *
+git status
+git commit -m "Prova"
+git push origin master
